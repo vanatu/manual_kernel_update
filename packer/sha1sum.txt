@@ -1,0 +1,1 @@
+5de5c26cdf09d7a465e21c754d46dae675450705  centos-7.7.1908-kernel-6-x86_64-Minimal.box
